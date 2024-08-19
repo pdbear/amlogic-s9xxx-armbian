@@ -227,6 +227,7 @@ on:
         options:
           - ophub
           - angel
+          - pdbear
           - yourname
 
 env:

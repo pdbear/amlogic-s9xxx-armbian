@@ -228,6 +228,7 @@ on:
         options:
           - ophub
           - dy008
+          - pdbear
 
 env:
   TZ: America/New_York
