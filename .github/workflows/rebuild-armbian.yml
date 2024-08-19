@@ -62,6 +62,7 @@ on:
           - renegade-rk3328
           - rk3318-box
           - rock5b
+          - zysj-3588
           - rock5c
           - s905
           - s905-beelink-mini
