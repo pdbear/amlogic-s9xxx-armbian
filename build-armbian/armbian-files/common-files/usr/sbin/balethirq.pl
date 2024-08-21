@@ -241,6 +241,8 @@ sub board_special_config() {
         &optimize_eth_parameters("eth0","eth1");
     } elsif($board eq "Hlink H88K-V3") {
         &optimize_eth_parameters("eth0","eth1");
+    } elsif($board eq "ZYSJ-3588") {
+        &optimize_eth_parameters("eth0","eth1");
     }
 }
 
